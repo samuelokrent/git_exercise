@@ -55,4 +55,12 @@
 		"age": "18",
 		"github_handle": "voltomeyer"
 	},
+	{
+		"name": "Sam Okrent",
+		"netid": "sokrent2",
+		"grade": "Freshman",
+		"major": "Computer Science",
+		"age": "18",
+		"github_handle": "samuelokrent"
+	}
 ]
